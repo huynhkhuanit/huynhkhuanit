@@ -7,7 +7,8 @@ I am a passionate software developer with a strong interest in building scalable
 - 🌐 I have experience in web development using modern frameworks and libraries.
 - 📱 I enjoy working on mobile applications and have developed apps for both iOS and Android.
 - 💡 I'm always eager to learn and improve my skills.
-- 🎓 I hold a degree in Computer Science and have completed several online courses in various programming languages and technologies.
+- 🎓 I am a 3rd year student at Hung Vuong University, Ho Chi Minh City.
+- ✔️ I have completed web development courses at **F8**.
 
 ## 🛠️ Technologies & Tools
 
@@ -27,23 +28,28 @@ Here are some of the technologies and tools I work with:
 
 ## 🌱 Latest Projects
 
+### 📽️ HTML & CSS
+
 Here are some of the projects I've been working on:
 
-1. **[Project Name](https://github.com/huynhkhuanit/project-name)**: Brief description of the project.
-2. **[Another Project](https://github.com/huynhkhuanit/another-project)**: Brief description of the project.
-3. **[Yet Another Project](https://github.com/huynhkhuanit/yet-another-project)**: Brief description of the project.
+1. **[Project 01](https://huynhkhuanit.github.io/f8-htmlcss-project-01/)**: Project using HTML5 & CSS3 to build.
+2. **[Project 02](https://huynhkhuanit.github.io/f8-htmlcss-project-02/)**: Project using HTML5 & CSS3 to build.
+3. **[Project 03](https://huynhkhuanit.github.io/f8-htmlcss-project-03/)**: Project using HTML5 & CSS3 to build.
+4. **[Project 03-01](https://huynhkhuanit.github.io/f8-htmlcss-project-03-01/)**: Project using HTML5 & CSS3 to build and use Semantic SEO.
+5. **[Project 04](https://huynhkhuanit.github.io/f8-htmlcss-project-04/)**: Project using HTML5 & CSS3 to build + Animations + WOW.
 
 ## 📫 How to Reach Me
 
 Feel free to reach out to me through the following channels:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email:** [huynhkhuanit@gmail.com.com](mailto:huynhkhuanit@gmail.com)
+- **Phone:** [+84943006018](tel:+84943006018)
+- **Facebook:** [Facebook Profile](https://www.facebook.com/huynhkhuanit/)
+- **Github:** [Github Profile](https://github.com/huynhkhuanit)
 
 ## ⚡ Fun Fact
 
-I love solving puzzles and playing chess in my free time!
+I like watching entertainment programs and reading books in my free time!
 
 ---
 
