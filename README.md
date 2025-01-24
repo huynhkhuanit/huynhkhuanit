@@ -32,7 +32,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've been working on:
 
-1. **[Project 01](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-01/)**: Project using HTML5 & CSS3 to build.
+1. **<a href="http://example.com/" target="_blank">Hello, world!</a>**: Project using HTML5 & CSS3 to build.
 2. **[Project 02](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-02/)**: Project using HTML5 & CSS3 to build.
 3. **[Project 03](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-03/)**: Project using HTML5 & CSS3 to build.
 4. **[Project 03-01](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-03-01/)**: Project using HTML5 & CSS3 to build and use Semantic SEO.
