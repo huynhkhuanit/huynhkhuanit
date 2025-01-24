@@ -32,11 +32,11 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've been working on:
 
-1. **[Project 01](https://huynhkhuanit.github.io/f8-htmlcss-project-01/)**: Project using HTML5 & CSS3 to build.
-2. **[Project 02](https://huynhkhuanit.github.io/f8-htmlcss-project-02/)**: Project using HTML5 & CSS3 to build.
-3. **[Project 03](https://huynhkhuanit.github.io/f8-htmlcss-project-03/)**: Project using HTML5 & CSS3 to build.
-4. **[Project 03-01](https://huynhkhuanit.github.io/f8-htmlcss-project-03-01/)**: Project using HTML5 & CSS3 to build and use Semantic SEO.
-5. **[Project 04](https://huynhkhuanit.github.io/f8-htmlcss-project-04/)**: Project using HTML5 & CSS3 to build + Animations + WOW.
+1. **[Project 01](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-01/)**: Project using HTML5 & CSS3 to build.
+2. **[Project 02](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-02/)**: Project using HTML5 & CSS3 to build.
+3. **[Project 03](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-03/)**: Project using HTML5 & CSS3 to build.
+4. **[Project 03-01](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-03-01/)**: Project using HTML5 & CSS3 to build and use Semantic SEO.
+5. **[Project 04](https://external.ink/?to=https://huynhkhuanit.github.io/f8-htmlcss-project-04/)**: Project using HTML5 & CSS3 to build + Animations + WOW.
 
 ## 📫 How to Reach Me
 
@@ -44,8 +44,8 @@ Feel free to reach out to me through the following channels:
 
 - **Email:** [huynhkhuanit@gmail.com.com](mailto:huynhkhuanit@gmail.com)
 - **Phone:** [+84943006018](tel:+84943006018)
-- **Facebook:** [Facebook Profile](https://www.facebook.com/huynhkhuanit/)
-- **Github:** [Github Profile](https://github.com/huynhkhuanit)
+- **Facebook:** [Facebook Profile](https://external.ink/?to=https://www.facebook.com/huynhkhuanit/)
+- **Github:** [Github Profile](https://external.ink/?to=https://github.com/huynhkhuanit)
 
 ## ⚡ Fun Fact
 
