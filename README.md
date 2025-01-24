@@ -43,7 +43,7 @@ Here are some of the projects I've been working on:
 Feel free to reach out to me through the following channels:
 
 - **Email:** [huynhkhuanit@gmail.com.com](mailto:huynhkhuanit@gmail.com)
-- **Phone:** [+84943006018](tel:+84943006018)
+- **Phone:** 📞 0943006018 | 📞 0898094706 (📂 **Vietnamese**)
 - **Facebook:** [Facebook Profile](https://www.facebook.com/huynhkhuanit/)
 - **Github:** [Github Profile](https://github.com/huynhkhuanit)
 
