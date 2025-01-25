@@ -105,7 +105,9 @@ Here are some of the projects I've been working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03&theme=merko)](https://github.com/huynhkhuanit/f8-htmlcss-project-03)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03-01&theme=gruvbox)](https://github.com/huynhkhuanit/f8-htmlcss-project-03-01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-04&theme=onedark)](https://github.com/huynhkhuanit/f8-htmlcss-project-04)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=onedark)](https://github.com/huynhkhuanit/f8-htmlcss-project-05)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=simple-git-project&theme=dracula)](https://github.com/huynhkhuanit/simple-git-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=radical)](https://github.com/huynhkhuanit/tips-and-trick)
 
 ## 📫 How to Reach Me
 
