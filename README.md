@@ -48,6 +48,30 @@ Here are some of the technologies and tools I work with:
 
 </p>
 
+
+
+<h2 align="center">💻 Professional Coding 💻</h2>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding GIF 1" style="width: 100%; height: auto;">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF 2" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF 3" style="width: 100%; height: auto;">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF 4" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
 ## 📈 GitHub Stats:
 <table style="width:100%;">
   <tr>
