@@ -50,7 +50,7 @@ Here are some of the technologies and tools I work with:
 
 
 
-<h2 align="center">💻 Professional Coding 💻</h2>
+<h2>💻 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗱𝗶𝗻𝗴 💻</h2>
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
