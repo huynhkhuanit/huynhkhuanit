@@ -1,6 +1,6 @@
 <img align="right" width="64" src="https://github.com/huynhkhuanit.png" />
 
-<h1 align="center">Hi there, I'm Huynh Khuan! 👋</h2>
+<h1 align="center">Hi there, I'm Huynh Khuan! 👋</h1>
 <p align="center">
   <p align="center">I am a passionate software developer with a strong interest in building scalable applications and exploring new technologies. Welcome to my GitHub profile!</p>
 </p>
@@ -98,9 +98,9 @@ Here are some of the projects I've been working on:
 4. **[Project 03-01](https://huynhkhuanit.github.io/f8-htmlcss-project-03-01/)**: Project using HTML5 & CSS3 to build and use Semantic SEO.
 5. **[Project 04](https://huynhkhuanit.github.io/f8-htmlcss-project-04/)**: Project using HTML5 & CSS3 to build + Animations + WOW.
 
-## 🗂️ Latest Projects - CARD
+<br>
 
-## 🗂️ Latest Projects - CARD
+<h2 align="center">🗂️ Project Stack</h2> 
 
 <table>
   <tr>
