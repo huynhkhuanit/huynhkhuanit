@@ -100,13 +100,13 @@ Here are some of the projects I've been working on:
 5. **[Project 04](https://huynhkhuanit.github.io/f8-htmlcss-project-04/)**: Project using HTML5 & CSS3 to build + Animations + WOW.
 
 ## 🗂️ Latest Projects - CARD
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-01&theme=radical)](https://github.com/huynhkhuanit/f8-htmlcss-project-01)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-02&theme=tokyonight)](https://github.com/huynhkhuanit/f8-htmlcss-project-02)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03&theme=merko)](https://github.com/huynhkhuanit/f8-htmlcss-project-03)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03-01&theme=gruvbox)](https://github.com/huynhkhuanit/f8-htmlcss-project-03-01)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-04&theme=onedark)](https://github.com/huynhkhuanit/f8-htmlcss-project-04)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=onedark)](https://github.com/huynhkhuanit/f8-htmlcss-project-05)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=radical)](https://github.com/huynhkhuanit/tips-and-trick)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-01&theme=radical&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-02&theme=tokyonight&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-02)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03&theme=merko&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-03)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03-01&theme=gruvbox&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-03-01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-04&theme=onedark&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-04)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=onedark&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-05)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=radical&cache_seconds=60)](https://github.com/huynhkhuanit/tips-and-trick)
 
 ## 📫 How to Reach Me
 
