@@ -76,16 +76,17 @@ Here are some of the technologies and tools I work with:
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkhuanit&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="huynhkhuanit" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=huynhkhuanit&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="huynhkhuanit" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkhuanit&theme=vue-dark&layout=compact&hide=CSS&langs_count=10&custom_title=🌐%20Top%20Languages&cache_seconds=60" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=huynhkhuanit&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Activities&cache_seconds=60" alt="GitHub Activities" width="100%"/>
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer at work" width="90%"/>
       </p>
     </td>
   </tr>
 </table>
+
 
 ## 🌱 Latest Projects
 
@@ -105,8 +106,8 @@ Here are some of the projects I've been working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03&theme=merko&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-03)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03-01&theme=gruvbox&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-03-01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-04&theme=onedark&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-04)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=onedark&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-05)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=radical&cache_seconds=60)](https://github.com/huynhkhuanit/tips-and-trick)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=vue-dark&cache_seconds=60)](https://github.com/huynhkhuanit/f8-htmlcss-project-05)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=jolly&cache_seconds=60)](https://github.com/huynhkhuanit/tips-and-trick)
 
 ## 📫 How to Reach Me
 
