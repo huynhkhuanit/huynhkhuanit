@@ -99,7 +99,7 @@ Here are some of the projects I've been working on:
 
 <br>
 
-<h2 align="center">🗂️ Project Stack</h2> 
+<h2 align="center">🗂️ Project Landing Page</h2> 
 
 <table>
   <tr>
@@ -137,16 +137,35 @@ Here are some of the projects I've been working on:
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/huynhkhuanit/tips-and-trick">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=jolly&cache_seconds=60" alt="Project 7">
-      </a>
-    </td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
+<br>
+
+<h2 align="center">⭐ Some other projects</h2> 
+
+<table>
+  <tr>
+    <td>
+      <a href="https://huynhkhuanit.github.io/lunar-new-year-2025/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=lunar-new-year-2025&theme=radical&cache_seconds=60" alt="Lunar New Year 2025">
+      </a>
+    </td>
+    <td>
+      <a href="https://huynhkhuanit.github.io/happy-new-year/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=happy-new-year&theme=radical&cache_seconds=60" alt="Lunar New Year 2025">
+      </a>
+    </td>
+    <td>
+      <a href="https://huynhkhuanit.github.io/tips-and-trick/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=tokyonight&cache_seconds=60" alt="Tips and trick">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 How to Reach Me
 
