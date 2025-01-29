@@ -156,7 +156,7 @@ Here are some of the projects I've been working on:
     </td>
     <td>
       <a href="https://huynhkhuanit.github.io/happy-new-year/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=happy-new-year&theme=radical&cache_seconds=60" alt="Lunar New Year 2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=happy-new-year&theme=radical&cache_seconds=60" alt="Happy New Year 2025">
       </a>
     </td>
     <td>
