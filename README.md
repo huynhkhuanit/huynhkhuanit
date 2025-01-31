@@ -137,7 +137,11 @@ Here are some of the projects I've been working on:
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-06">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-06&theme=radical&cache_seconds=10" alt="Project 6">
+      </a>
+    </td>
     <td></td>
     <td></td>
   </tr>
