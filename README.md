@@ -171,6 +171,24 @@ Here are some of the projects I've been working on:
   </tr>
 </table>
 
+<br>
+
+<h2 align="center">🏫 School Projects</h2> 
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/huynhkhuanit/student-management-system-javafx">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=student-management-system-javafx&theme=radical&cache_seconds=5" alt="Student Management System by JavaFX">
+      </a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
 ## 📫 How to Reach Me
 
 Feel free to reach out to me through the following channels:
