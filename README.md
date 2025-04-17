@@ -73,8 +73,8 @@ Here are some of the technologies and tools I work with:
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkhuanit&theme=vue-dark&layout=compact&hide=CSS&langs_count=10&custom_title=🌐%20Top%20Languages&cache_seconds=5" alt="Top Languages" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=huynhkhuanit&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Activities&cache_seconds=5" alt="GitHub Activities" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkhuanit&theme=vue-dark&layout=compact&hide=CSS&langs_count=10&custom_title=🌐%20Top%20Languages&cache_seconds=10" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=huynhkhuanit&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Activities&cache_seconds=10" alt="GitHub Activities" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -105,45 +105,53 @@ Here are some of the projects I've been working on:
   <tr>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-01">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-01&theme=radical&cache_seconds=5" alt="Project 1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-01&theme=radical&cache_seconds=10" alt="Project 1">
       </a>
     </td>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-02">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-02&theme=tokyonight&cache_seconds=5" alt="Project 2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-02&theme=tokyonight&cache_seconds=10" alt="Project 2">
       </a>
     </td>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-03">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03&theme=merko&cache_seconds=5" alt="Project 3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03&theme=merko&cache_seconds=10" alt="Project 3">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-03-01">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03-01&theme=gruvbox&cache_seconds=5" alt="Project 4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-03-01&theme=gruvbox&cache_seconds=10" alt="Project 4">
       </a>
     </td>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-04">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-04&theme=onedark&cache_seconds=5" alt="Project 5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-04&theme=onedark&cache_seconds=10" alt="Project 5">
       </a>
     </td>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-05">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=vue-dark&cache_seconds=5" alt="Project 6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-05&theme=vue-dark&cache_seconds=10" alt="Project 6">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-06">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-06&theme=radical&cache_seconds=5" alt="Project 6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-06&theme=radical&cache_seconds=10" alt="Project 6">
       </a>
     </td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-07">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-07&theme=radical&cache_seconds=10" alt="Project 6">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-08">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-08&theme=radical&cache_seconds=10" alt="Project 6">
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -155,17 +163,17 @@ Here are some of the projects I've been working on:
   <tr>
     <td>
       <a href="https://huynhkhuanit.github.io/lunar-new-year-2025/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=lunar-new-year-2025&theme=radical&cache_seconds=5" alt="Lunar New Year 2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=lunar-new-year-2025&theme=radical&cache_seconds=10" alt="Lunar New Year 2025">
       </a>
     </td>
     <td>
       <a href="https://huynhkhuanit.github.io/happy-new-year/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=happy-new-year&theme=radical&cache_seconds=5" alt="Happy New Year 2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=happy-new-year&theme=radical&cache_seconds=10" alt="Happy New Year 2025">
       </a>
     </td>
     <td>
       <a href="https://huynhkhuanit.github.io/tips-and-trick/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=tokyonight&cache_seconds=5" alt="Tips and trick">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=tokyonight&cache_seconds=10" alt="Tips and trick">
       </a>
     </td>
   </tr>
@@ -179,7 +187,7 @@ Here are some of the projects I've been working on:
   <tr>
     <td>
       <a href="https://github.com/huynhkhuanit/student-management-system-javafx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=student-management-system-javafx&theme=radical&cache_seconds=5" alt="Student Management System by JavaFX">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=student-management-system-javafx&theme=radical&cache_seconds=10" alt="Student Management System by JavaFX">
       </a>
     </td>
     <td>
