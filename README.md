@@ -191,6 +191,9 @@ Here are some of the projects I've been working on:
       </a>
     </td>
     <td>
+      <a href="https://github.com/huynhkhuanit/web-crud-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=web-crud-app&theme=radical&cache_seconds=10" alt="web-crud-app">
+      </a>
     </td>
     <td>
     </td>
