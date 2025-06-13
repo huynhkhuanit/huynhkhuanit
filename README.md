@@ -196,6 +196,9 @@ Here are some of the projects I've been working on:
       </a>
     </td>
     <td>
+      <a href="https://github.com/huynhkhuanit/pdf_converter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=pdf_converter&theme=radical&cache_seconds=10" alt="pdf_converter">
+      </a>
     </td>
   </tr>
 </table>
