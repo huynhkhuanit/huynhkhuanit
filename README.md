@@ -201,6 +201,13 @@ Here are some of the projects I've been working on:
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/huynhkhuanit/vietnamese-learning-app-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=vietnamese-learning-app-ai&theme=radical&cache_seconds=10" alt="pdf_converter">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 📫 How to Reach Me
