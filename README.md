@@ -20,8 +20,8 @@
 Here are some of the technologies and tools I work with:
 
 - **Languages:** JavaScript, Python, Java, C++
-- **Web Development:** HTML, CSS, React, Angular, Node.js, Express
-- **Mobile Development:** React Native, Flutter
+- **Web Development:** HTML, CSS, React, Node.js
+- **Mobile Development:** Flutter
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Cloud Services:** AWS, Firebase
