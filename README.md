@@ -147,8 +147,6 @@ Here are some of the projects I've been working on:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-07&theme=radical&cache_seconds=10" alt="Project 6">
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-08">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-08&theme=radical&cache_seconds=10" alt="Project 6">
@@ -178,6 +176,8 @@ Here are some of the projects I've been working on:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=tokyonight&cache_seconds=10" alt="Tips and trick">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://huynhkhuanit.github.io/trungthu2025/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=trungthu2025&theme=tokyonight&cache_seconds=10" alt="Trung Thu 2025">
