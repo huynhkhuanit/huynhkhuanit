@@ -176,6 +176,11 @@ Here are some of the projects I've been working on:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=tips-and-trick&theme=tokyonight&cache_seconds=10" alt="Tips and trick">
       </a>
     </td>
+    <td>
+      <a href="https://huynhkhuanit.github.io/trungthu2025/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=trungthu2025&theme=tokyonight&cache_seconds=10" alt="Trung Thu 2025">
+      </a>
+    </td>
   </tr>
 </table>
 
