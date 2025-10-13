@@ -214,8 +214,6 @@ Here are some of the projects I've been working on:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=vietnamese-learning-app-ai&theme=radical&cache_seconds=10" alt="pdf_converter">
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/huynhkhuanit/elearning-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=elearning-system&theme=radical&cache_seconds=10" alt="elearning-system">
