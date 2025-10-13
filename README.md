@@ -215,6 +215,13 @@ Here are some of the projects I've been working on:
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/huynhkhuanit/elearning-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=elearning-system&theme=radical&cache_seconds=10" alt="elearning-system">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 📫 How to Reach Me
@@ -222,24 +229,7 @@ Here are some of the projects I've been working on:
 Feel free to reach out to me through the following channels:
 
 - **Email:** [huynhkhuanit@gmail.com.com](mailto:huynhkhuanit@gmail.com)
-- **Phone:** 📞 0943006018 | 📞 0898094706 (📂 **Vietnamese**)
-- **Facebook:** [Facebook Profile](https://www.facebook.com/huynhkhuanit/)
 - **Github:** [Github Profile](https://github.com/huynhkhuanit)
-
-
-## 📶 Contact Me With Icon 
-<p align="center">
-  <a href="https://www.facebook.com/huynhkhuanit/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/huynhkhuanit" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:huynhkhuanit@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
 
 ## ⚡ Fun Fact
 
