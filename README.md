@@ -39,7 +39,7 @@ const huynhKhuan = {
 
 <br clear="both">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10"> Tech Stack & Tools
 
 <div align="center">
 
