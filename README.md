@@ -89,7 +89,7 @@ const huynhKhuan = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhkhuanit&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhkhuanit&theme=tokyonight&cache_bust=1" alt="GitHub Streak Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
