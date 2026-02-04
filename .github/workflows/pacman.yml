@@ -11,18 +11,39 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    env:
-      NODE_OPTIONS: --max-old-space-size=4096
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
-      - name: generate pacman svg
+      - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify and Move Files
+        run: |
+          # The action writes to dist/ by default (as confirmed by source code inspection)
+          # We need to verify files exist and ensure they are ready for deployment.
+          ls -R
+
+          # Ensure dist directory exists (it should be created by the action)
+          if [ ! -d "dist" ]; then
+            echo "Error: dist directory not found!"
+            exit 1
+          fi
+
+          if [ ! -f "dist/pacman-contribution-graph.svg" ]; then
+             echo "Error: dist/pacman-contribution-graph.svg not found!"
+             exit 1
+          fi
+
+          if [ ! -f "dist/pacman-contribution-graph-dark.svg" ]; then
+             echo "Error: dist/pacman-contribution-graph-dark.svg not found!"
+             exit 1
+          fi
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
