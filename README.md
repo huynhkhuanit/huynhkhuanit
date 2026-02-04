@@ -59,6 +59,16 @@ I am a final-year **Software Engineering** student at **Hung Vuong University (H
 
 ---
 
+### ❤️ Support my work
+
+<div align="center">
+  If you find my projects useful, consider sponsoring me:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA)](https://github.com/sponsors/huynhkhuanit)
+</div>
+
+---
+
 ### 📊 **GitHub Analytics**
 
 <div align="center">
