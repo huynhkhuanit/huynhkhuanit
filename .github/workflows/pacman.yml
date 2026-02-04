@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Chạy 12h một lần
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -18,15 +18,32 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Move to dist folder
+      - name: Locate and Move file
         run: |
-          mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
+          echo "Listing files to find the generated image:"
+          ls -a
+          
+          # Logic tìm và đổi tên file về đúng chuẩn pacman
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            mv pacman-contribution-graph.svg dist/
+          elif [ -f "github-contribution-grid-snake.svg" ]; then
+            mv github-contribution-grid-snake.svg dist/pacman-contribution-graph.svg
+          else
+            echo "Error: Không tìm thấy file ảnh nào được tạo ra!"
+            exit 1
+          fi
+
+          # Tạo thêm bản copy cho chế độ Dark mode để tránh lỗi 404
           cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
 
       - name: push pacman-contribution-graph.svg to the output branch
