@@ -1,56 +1,23 @@
-name: Generate Pacman Graph
-
+name: generate pacman graph
 on:
   schedule:
-    - cron: "0 0 * * *" # Chạy tự động 0h hàng ngày
-  workflow_dispatch:        # Cho phép chạy thủ công
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches:
-    - main
-
-# Cấp quyền Ghi cho bot
-permissions:
-  contents: write
+    branches: [ main ]
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      # BƯỚC 1: Tạo ảnh Pacman bằng repo abozanona
-      - name: Generate Pac-Man SVG
+      - name: generate pacman svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-        env:
-          # QUAN TRỌNG: Phải có Token mới lấy được dữ liệu commit
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # BƯỚC 2: Chuẩn bị thư mục output
-      - name: Prepare dist folder
-        run: |
-          # Tạo thư mục dist
-          mkdir -p dist
-          
-          # Kiểm tra xem file có được tạo ra không
-          if [ -f "pacman-contribution-graph.svg" ]; then
-            echo "File generated successfully!"
-            
-            # Di chuyển file vào thư mục dist
-            mv pacman-contribution-graph.svg dist/
-            
-            # Copy thêm 1 bản đặt tên là dark.svg để khớp với file README của bạn
-            # (Giúp tránh lỗi 404 ở chế độ Dark mode)
-            cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
-          else
-            echo "ERROR: Pacman file was NOT generated."
-            exit 1
-          fi
-
-      # BƯỚC 3: Đẩy lên nhánh output
-      - name: Deploy to Output Branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
