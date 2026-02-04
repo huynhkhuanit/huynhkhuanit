@@ -11,27 +11,11 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: generate pacman svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          node-version: '20'
-
-      - name: Install pacman-contribution-graph
-        run: npm install -g pacman-contribution-graph
-
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - name: Generate Pacman Graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          pacman-contribution-graph --username ${{ github.repository_owner }} --platform github --gameTheme github --output dist/pacman-contribution-graph.svg
-          pacman-contribution-graph --username ${{ github.repository_owner }} --platform github --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+          github_user_name: ${{ github.repository_owner }}
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
