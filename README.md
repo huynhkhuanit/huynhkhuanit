@@ -16,7 +16,7 @@
 
   <br /> <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Coding+is+JOY,+pursuing+coding+is+PASSION!;The+result+is+EFFORT!+Talk+is+cheap,+show+me+the+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=650&lines=Learn+by+building%2C+build+by+doing;Small+improvements+every+single+day;Progress+over+perfection+always;Today+I+learned%2C+today+I+built;From+zero+to+something+meaningful" alt="Typing SVG" />
 
 </div>
 
