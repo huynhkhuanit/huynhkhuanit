@@ -72,7 +72,7 @@ I am a final-year **Software Engineering** student at **Hung Vuong University (H
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhkhuanit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1&&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhkhuanit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhkhuanit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="180" alt="Top Languages" />
 </div>
 
