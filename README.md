@@ -72,8 +72,23 @@ I am a final-year **Software Engineering** student at **Hung Vuong University (H
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhkhuanit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhkhuanit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="180" alt="Top Languages" />
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-huynhkhuanit.vercel.app/api?username=huynhkhuanit&show_icons=true&hide_border=true&count_private=true&custom_title=Huynh%20Khuan's%20Last%20Year%20Stats&theme=dracula&card_width=400&rank_icon=percentile&hide_rank=true" height="180" alt="Last Year Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-huynhkhuanit.vercel.app/api?username=huynhkhuanit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Huynh%20Khuan's%20All-time%20Stats&theme=dracula&card_width=400&rank_icon=percentile" height="180" alt="All-time Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-huynhkhuanit.vercel.app/api/top-langs?username=huynhkhuanit&hide_border=true&layout=compact&theme=dracula&langs_count=10&card_width=820" height="200" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <br/>
