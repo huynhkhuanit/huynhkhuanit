@@ -63,21 +63,21 @@ const huynhkhuan = {
 <td width="33%" align="center">
 
 **🌐 AIoT E-Learning**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=aiot-elearning-platform&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/aiot-elearning-platform)
+[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=aiot-elearning-platform&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/aiot-elearning-platform)
 `TypeScript` `AI` `IoT`
 
 </td>
 <td width="33%" align="center">
 
 **🤖 Vietnamese Learning AI**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=vietnamese-learning-app-ai&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/vietnamese-learning-app-ai)
+[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=vietnamese-learning-app-ai&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/vietnamese-learning-app-ai)
 `Dart` `Flutter` `ML`
 
 </td>
 <td width="33%" align="center">
 
 **📚 E-Learning System**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=elearning-system&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/elearning-system)
+[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=elearning-system&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/elearning-system)
 `React` `Next.js` `TypeScript`
 
 </td>
@@ -86,21 +86,21 @@ const huynhkhuan = {
 <td width="33%" align="center">
 
 **🎯 Quiz Master**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=edu-quiz-master&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/edu-quiz-master)
+[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=edu-quiz-master&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/edu-quiz-master)
 `TypeScript` `Full-Stack`
 
 </td>
 <td width="33%" align="center">
 
 **✅ Task Management**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=task_management_app&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/task_management_app)
+[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=task_management_app&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/task_management_app)
 `Flutter` `Supabase` `REST`
 
 </td>
 <td width="33%" align="center">
 
 **🎓 Student Management**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=student-management-system-javafx&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/student-management-system-javafx)
+[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=student-management-system-javafx&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/student-management-system-javafx)
 `Java` `JavaFX` `Desktop`
 
 </td>
@@ -138,13 +138,13 @@ const huynhkhuan = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
-## 🐍 Contribution Graph
+## 🟡 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 </div>
 
