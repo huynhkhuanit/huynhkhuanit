@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Huynh%20Khuan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=20&descColor=fff" alt="Header" width="100%"/>
-</div>
-
-<div align="center">
 
   <a href="https://github.com/huynhkhuanit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
