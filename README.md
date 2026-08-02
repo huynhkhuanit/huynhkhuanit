@@ -1,185 +1,168 @@
 <div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Huynh%20Khuan&fontSize=42&fontAlignY=30&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descSize=18&descAlignY=51&animation=twinkling" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=700&height=60&lines=Learn+by+building%2C+build+by+doing+%F0%9F%9A%80;Progress+over+perfection%2C+every+single+day+%E2%9C%A8;From+zero+to+something+meaningful+%F0%9F%92%AA" alt="Typing SVG" />
+# Hi, I'm Huynh Khuan 👋
 
-  <br/>
+### Software Engineering Graduate · Full-Stack Developer · AI Enthusiast
 
-  <a href="https://github.com/huynhkhuanit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:huynhkhuanit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/huynhkhuanit">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/huynhkhuanit?tab=followers">
-    <img src="https://img.shields.io/github/followers/huynhkhuanit?label=Followers&style=for-the-badge&color=20C20E&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=huynhkhuanit&color=20C20E&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+I build practical software, explore artificial intelligence,
+and turn what I learn into open-source projects.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-huynhkhuanit-181717?style=flat-square\&logo=github)](https://github.com/huynhkhuanit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huynh_Khuan-0A66C2?style=flat-square\&logo=linkedin)](https://linkedin.com/in/huynhkhuanit)
+[![Email](https://img.shields.io/badge/Email-huynhkhuanit%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:huynhkhuanit@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=huynhkhuanit\&style=flat-square\&color=brightgreen)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+---
 
-## 👨‍💻 About Me
+## About Me
 
-```typescript
-const huynhkhuan = {
-    role: "Software Engineering Student — Final Year",
-    university: "Hung Vuong University (HCMC)",
-    stack: ["MERN", "Flutter", "Microservices", "Cloud Native"],
-    focus: ["System Design", "Clean Architecture", "AI Integration"],
-    goals: { career: "Senior Software Engineer", cert: "IELTS 6.5+" },
-    motto: "Progress over perfection, every single day"
-};
+```python
+huynh_khuan = {
+    "background": "Software Engineering",
+    "interests": [
+        "Python",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Full-Stack Development",
+        "Open Source"
+    ],
+    "currently_building": "SQLuminate",
+    "currently_learning": [
+        "Advanced Python",
+        "AI and NLP",
+        "Data Structures and Algorithms",
+        "Software Architecture"
+    ],
+    "principle": "Understand deeply. Build practically. Improve continuously."
+}
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+I am a Software Engineering graduate based in Ho Chi Minh City, Vietnam.
 
-## 🛠️ Tech Stack
+My current direction combines **software engineering**, **web development**, and **artificial intelligence**. I use AI as an engineering and research assistant, while focusing on understanding the underlying concepts rather than relying on generated results.
 
-<div align="center">
+I enjoy building products that solve practical problems, documenting what I learn, and contributing useful tools to the developer community.
 
-**Languages** &nbsp;&nbsp;|&nbsp;&nbsp; **Frameworks & Libraries** &nbsp;&nbsp;|&nbsp;&nbsp; **Databases & DevOps**
+---
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,dart,html,css&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,tailwind,redux&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,docker,aws,git&theme=dark" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🌐 AIoT E-Learning**
-[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=aiot-elearning-platform&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/aiot-elearning-platform)
-`TypeScript` `AI` `IoT`
-
-</td>
-<td width="33%" align="center">
-
-**🤖 Vietnamese Learning AI**
-[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=vietnamese-learning-app-ai&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/vietnamese-learning-app-ai)
-`Dart` `Flutter` `ML`
-
-</td>
-<td width="33%" align="center">
-
-**📚 E-Learning System**
-[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=elearning-system&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/elearning-system)
-`React` `Next.js` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🎯 Quiz Master**
-[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=edu-quiz-master&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/edu-quiz-master)
-`TypeScript` `Full-Stack`
-
-</td>
-<td width="33%" align="center">
-
-**✅ Task Management**
-[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=task_management_app&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/task_management_app)
-`Flutter` `Supabase` `REST`
-
-</td>
-<td width="33%" align="center">
-
-**🎓 Student Management**
-[![Repo](https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=student-management-system-javafx&theme=tokyonight&show_owner=true)](https://github.com/huynhkhuanit/student-management-system-javafx)
-`Java` `JavaFX` `Desktop`
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/huynhkhuanit?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-20C20E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
-## 📊 GitHub Statistics
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-huynhkhuanit.vercel.app/api?username=huynhkhuanit&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&card_width=400&rank_icon=percentile&border_radius=10&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhkhuanit&theme=dracula&hide_border=true&border_radius=10&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" alt="Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-huynhkhuanit.vercel.app/api/top-langs?username=huynhkhuanit&layout=compact&theme=dracula&langs_count=10&card_width=820&border_radius=10&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=huynhkhuanit&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-?)](https://github.com/huynhkhuanit)
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
-## 🟡 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph.svg" width="100%" />
-  </picture>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
-## 📬 Connect & Support
+## Featured Open-Source Project
 
 <div align="center">
 
-<a href="https://github.com/huynhkhuanit">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:huynhkhuanit@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/huynhkhuanit">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/huynhkhuanit">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://github.com/sponsors/huynhkhuanit">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+<a href="https://github.com/huynhkhuanit/sqluminate">
+  <img src="https://github-readme-stats-huynhkhuanit.vercel.app/api/pin/?username=huynhkhuanit&repo=sqluminate&theme=github_dark&hide_border=true" alt="SQLuminate repository" />
 </a>
 
-<br/><br/>
+### [SQLuminate](https://github.com/huynhkhuanit/sqluminate)
 
-**💼 Open for:** &nbsp; 🚀 Full-time &nbsp;•&nbsp; 💡 Freelance &nbsp;•&nbsp; 🤝 Open-source Collabs &nbsp;•&nbsp; 📚 Mentorship
+**Visualize SQL. Understand every query.**
+
+An open-source, browser-based tool designed to help developers and learners understand SQL through query structure, JOIN graphs, logical execution flow, and interactive visualization.
+
+`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Monaco Editor` · `Vitest` · `Playwright`
+
+[Explore the repository](https://github.com/huynhkhuanit/sqluminate) ·
+[Read the documentation](https://github.com/huynhkhuanit/sqluminate#readme) ·
+[Contribute](https://github.com/huynhkhuanit/sqluminate/blob/main/CONTRIBUTING.md)
 
 </div>
+
+---
+
+## Other Projects
+
+| Project                                                                              | Description                                                          | Technologies                |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | --------------------------- |
+| [AIoT E-Learning Platform](https://github.com/huynhkhuanit/aiot-elearning-platform)  | Programming learning platform integrating AI and IoT concepts        | TypeScript, AI, IoT         |
+| [Vietnamese Learning AI](https://github.com/huynhkhuanit/vietnamese-learning-app-ai) | Mobile application for learning Vietnamese with AI-assisted features | Flutter, Dart, AI           |
+| [E-Learning System](https://github.com/huynhkhuanit/elearning-system)                | Web-based programming learning system                                | React, Next.js, TypeScript  |
+| [Task Management App](https://github.com/huynhkhuanit/task_management_app)           | Cross-platform task management application                           | Flutter, Supabase, REST API |
+
+<div align="center">
+
+[View all repositories →](https://github.com/huynhkhuanit?tab=repositories)
+
+</div>
+
+---
+
+## Technologies
+
+<div align="center">
+
+### Core Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart&theme=dark" alt="Programming languages" />
+
+### Web and Application Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,tailwind&theme=dark" alt="Frameworks and libraries" />
+
+### Data and Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,docker,git,github&theme=dark" alt="Databases and engineering tools" />
+
+</div>
+
+---
+
+## Current Focus
+
+* Building and maintaining **SQLuminate** as a practical open-source product.
+* Strengthening **Python**, software architecture, testing, and clean code practices.
+* Studying **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+* Practising **Data Structures and Algorithms** to improve problem-solving skills.
+* Sharing technical knowledge through documentation and community projects.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-huynhkhuanit.vercel.app/api?username=huynhkhuanit&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Huynh Khuan's GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats-huynhkhuanit.vercel.app/api/top-langs/?username=huynhkhuanit&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="GitHub contribution graph" src="https://raw.githubusercontent.com/huynhkhuanit/huynhkhuanit/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## Let's Connect
+
+I am interested in:
+
+* Open-source collaboration
+* Software engineering projects
+* AI and NLP research
+* Full-stack development
+* Knowledge-sharing communities
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/huynhkhuanit)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:huynhkhuanit@gmail.com)
+[![SQLuminate](https://img.shields.io/badge/Explore_SQLuminate-22C55E?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/huynhkhuanit/sqluminate)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+> **Learn deeply. Build practically. Share openly.**
 
-<div align="center">
-  <sub>Made with ❤️ by Huynh Khuan &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Updated-February%202026-20C20E?style=flat-square" /></sub>
+<sub>Built and maintained by <a href="https://github.com/huynhkhuanit">Huynh Khuan</a>.</sub>
+
 </div>
